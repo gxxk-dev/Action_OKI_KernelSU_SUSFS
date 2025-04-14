@@ -1,4 +1,4 @@
-name: New KernelSU Next SUSFS Ace3Pro
+name: New KernelSU Next SUSFS Ace5Pro
 on:
   workflow_dispatch:
     inputs:
@@ -9,7 +9,7 @@ on:
       FEIL:
         description: "配置文件"
         required: true
-        default: 'JiuGeFaCai_oneplus_ace5_pro_v'
+        default: 'oneplus_ace5_pro'
       CPUD:
         description: "处理器代号"
         required: true
